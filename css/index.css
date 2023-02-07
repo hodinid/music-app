@@ -1,0 +1,6 @@
+.alboms .card:hover {
+    outline: 4px solid #ffdb4b;
+}
+.alboms a {
+    color: gray;
+}
