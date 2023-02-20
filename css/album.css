@@ -2,3 +2,6 @@
     outline: 4px solid #ffdb4b;
     z-index: 1;
 }
+.progress{
+    flex: 1;
+}

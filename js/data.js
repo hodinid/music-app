@@ -8,7 +8,9 @@ let albums = [
             {
                 title: `Испанский танец`,
                 author: `Чайковский`,
-                time: `6:45`
+                time: `6:45`,
+                src: `music/side.mp3`,
+                isPlaying: false
             }
         ]
     }
@@ -22,7 +24,9 @@ let albums = [
             {
                 title: `Испанский танец`,
                 author: `Чайковский`,
-                time: `6:45`
+                time: `6:45`,
+                src:`music/side.mp3`,
+                isPlaying: false
             }
         ]
     }
@@ -36,7 +40,16 @@ let albums = [
             {
                 title: `Испанский танец`,
                 author: `Чайковский`,
-                time: `6:45`
+                time: `6:45`,
+                src:`music/side.mp3`,
+                isPlaying: false
+            },
+            {
+                title: `Испанский танец`,
+                author: `Чайковский`,
+                time: `6:45`,
+                src:`music/side.mp3`,
+                isPlaying: false
             }
         ]
     }
@@ -50,7 +63,9 @@ let albums = [
             {
                 title: `Испанский танец`,
                 author: `Чайковский`,
-                time: `6:45`
+                time: `6:45`,
+                src:`music/side.mp3`,
+                isPlaying: false
             }
         ]
     }
