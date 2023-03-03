@@ -1,2 +1,2 @@
 # music-app
-https://hodinid.github.io/music-app/index.html
+https://aestheticgirl2005.github.io/music-app/
